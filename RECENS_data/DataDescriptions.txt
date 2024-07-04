@@ -1,0 +1,19 @@
+Glasgow data
+https://www.stats.ox.ac.uk/~snijders/siena/Glasgow_data.htm
+
+RECENS dataset
+
+András Vörös, Tom A.B. Snijders,
+Cluster analysis of multiplex networks: Defining composite network measures,
+Social Networks,
+Volume 49,
+2017
+https://doi.org/10.1016/j.socnet.2017.01.002
+
+
+Appendix A. The RECENS high-school dataset
+The data analyzed in the paper come from a 4-wave longitudinal network survey conducted in 43 Hungarian high-school classrooms in the period of 2010–13. The data was collected as part of the “Wired into each other” network study by the Research Center for Educational and Network Studies (RECENS). The classrooms in the dataset were distributed in 7 schools from the capital, one large town, and two smaller towns in Hungary. In each participating school, all classes in the first-grade cohort (14–15 year-olds) of 2010–11 were followed for the first three of their four years in high school. Students answered self-administered pen-and-paper questionnaires four times during this period: twice in the first year (two months after the start of first grade and six months later), then once per year in the next two (1.5 and 2.5 years after the first wave).
+
+The questionnaires in each classroom and wave were filled out in the course of a 45-minute class at school, under the supervision of at least two trained researchers participating in the study. Before each wave, students and their parents received information about the survey and were asked for participation and consent. Network ties were reported by students using a classroom-level roster, that is, the number of ties to classmates was not limited, but ties to people outside one's own class were not permitted. Affective relationships were measured on a 5-point scale: friendship, liking, neutrality, dislike, and hate, where choices were mutually exclusive. In addition to these items, questions about bullying and victimization networks, shared activities and perceptions of peers’ attributes, behavior, social roles, and status were asked in the questionnaires. Altogether, the dataset contains information on various social ties between students along 40 dimensions in each classroom. In the present study, we used 21 of these network dimensions representing perceptions about a selection of attributes, behaviors, and roles (see Section 3.2).
+
+This paper analyzes the first two waves of the RECENS dataset. Wave 1 was collected in October 2010, only about a month after the start of the first high-school year, and wave 2 in April 2011. These observations frame an intense six-month period when classroom members become familiar with their new environment, get to know each other, and start to develop shared views about which behaviors or opinions are acceptable in the class and which are to be rejected. The evolution of the value systems (as used in Coleman, 1961) of classrooms goes hand in hand with changes in adolescents’ perceptions about their classmates, and may also affect the relationships between the different dimensions of peer perceptions in the community. As a consequence, the comparison of our results from the two waves may highlight certain general tendencies of the ongoing social dynamics.
